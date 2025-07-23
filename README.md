@@ -1,4 +1,4 @@
-#### Projeto 2 - Airbnb Rio - Ferramenta de Previsão de preços de imóveis
+## Projeto 2 - Airbnb Rio - Ferramenta de Previsão de preços de imóveis
 
 O projeto abaixo foi realizado ao longo do curso de Python Avançado aplicado a Ciência de Dados feito com a empresa Hashtag Treinamentos. Foi desenvolvido um programa de previsão de preços de imóveis
 na cidade do Rio de Janeiro baseado em variáveis como localização, quantidade de quartos e número de amenidades (ammenities).
